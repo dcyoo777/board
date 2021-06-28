@@ -1,0 +1,119 @@
+.Content-detail {
+    width: 800px;
+    height: auto;
+    margin: 13px 0 0 0 ;
+    padding: 0 0 20px 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 0 rgba(154, 154, 154, 0.15);
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+.Content-detail-top {
+    width: 780px;
+    height: 50px;
+    margin: 10px 10px 0 10px;
+    background-color: #eaf1ff;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #707070;
+}
+
+.Content-detail-title {
+    width: 254px;
+    height: 24px;
+    margin: 3px 0 5px 10px;
+    font-family: NotoSansCJKKR;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+.Content-detail-info {
+    display: inline;
+}
+
+.Content-detail-date {
+    width: 93px;
+    height: 17px;
+    margin: 0 0 0 10px;
+    font-family: NotoSansCJKKR;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    float: left;
+}
+
+.Content-detail-writer {
+    width: 74px;
+    height: 17px;
+    margin: 0 83px 0 0;
+    font-family: NotoSansCJKKR;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    float: right;
+}
+
+.Content-detail-content {
+    padding: 26px 20px 26px 20px;
+    font-family: NotoSansCJKKR;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+.Content-detail-bottom {
+    width: 749px;
+    height: 64px;
+    margin: 0 25.5px 9.3px 25.5px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #707070;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #707070;
+}
+
+.Content-detail-button1 {
+    width: 56px;
+    height: 26px;
+    margin: 25.5px 14.5px 13.5px 14.5px;
+    border-radius: 5px;
+    background-color: #3b4979;
+}
+
+.Content-detail-button-text {
+
+    height: 21px;
+    padding: 4px 0 0 0;
+    font-family: NotoSansCJKKR;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}

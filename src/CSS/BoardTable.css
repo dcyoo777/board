@@ -1,0 +1,60 @@
+.Table-body {
+    width: 778px;
+    margin: 10px 12px 0 10px;
+}
+
+.Table-column-number{
+    width: 60px;
+    text-align: center;
+}
+
+.Table-column-title{
+    width: 414px;
+    text-align: left;
+}
+
+.Table-column-writer{
+    width: 78px;
+    text-align: center;
+}
+
+.Table-column-date{
+    width: 98px;
+    text-align: center;
+}
+
+.Table-column-likes{
+    width: 70px;
+    text-align: center;
+}
+
+.Table-top{
+    height: 21px;
+    padding-top: 7px;
+    background-color: #eaf1ff;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #707070;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #e6e6e6;
+    justify-content: center;
+}
+
+.Text-table {
+    height: 17px;
+    margin: 0 0 0 10px;
+    font-family: NotoSansCJKKR;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+    float: left;
+}
+
+.Text-table-bold {
+    font-weight: bold;
+}

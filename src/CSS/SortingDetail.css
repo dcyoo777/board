@@ -1,0 +1,83 @@
+.Sorting-detail {
+    width: 563px;
+    height: 105px;
+    margin: 10px 0 0 7px;
+    padding: 0 13px 0 0;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px 0 rgba(154, 154, 154, 0.15);
+    border: solid 1px #f4f4f4;
+    background-color: #ffffff;
+    float: left;
+}
+
+.Sorting-detail-section {
+    width: 94px;
+    float: left;
+}
+
+.Sorting-detail-section-item {
+    height: 24px;
+    padding-top: 10px;
+    border-style: solid;
+    border-color: #f4f4f4;
+    border-width: 1px;
+    border-top-width: 0;
+    font-family: NotoSansCJKKR;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+}
+
+.Sorting-detail-searching {
+    padding: 10px;
+    float: left;
+}
+
+.Sorting-detail-searching-text {
+    font-family: NotoSansCJKKR;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+.Sorting-detail-searching-input {
+    width: 168px;
+    height: 22px;
+    margin: 8px 0 0;
+    border-radius: 5px;
+    border: solid 1px #c5c5c5;
+    background-color: #f7f9fa;
+}
+
+.Sorting-detail-searching-buttons {
+    padding: 14px 0;
+    float: left;
+}
+
+.Sorting-detail-searching-button {
+    width: 68px;
+    height: 28px;
+    margin: 5px 9.5px;
+    border-radius: 16px;
+    background-color: #3b4979;
+}
+
+.Sorting-detail-searching-button-text {
+    font-family: NotoSansCJKKR;
+    font-size: 12px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}

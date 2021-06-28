@@ -1,0 +1,71 @@
+.Write-new-content-body {
+    width: 800px;
+    height: 500px;
+    margin: 13px 0 0 0 ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 0 rgba(154, 154, 154, 0.15);
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+.Write-new-content-body form {
+    margin: 40px 38px 0 37px;
+}
+
+.Label-write-new-content {
+    width: 28px;
+    height: 19px;
+    margin-top: 7px;
+    margin-right: 19px;
+    font-family: MalgunGothic;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    float: left;
+}
+
+.Input-title-write-new-content {
+    width: 652px;
+    height: 26px;
+    padding: 0 10px 0 10px;
+    border-radius: 5px;
+    border: solid 1px #c5c5c5;
+    background-color: #f7f9fa;
+    float: left;
+}
+
+.Input-content-write-new-content {
+    width: 652px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px #c5c5c5;
+    background-color: #f7f9fa;
+
+}
+
+.Button-write-new-content {
+    width: 100px;
+    height: 31px;
+    margin: 23px 9px;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #3b4979;
+}
+
+.Button-write-new-content-text{
+    font-family: MalgunGothic;
+    font-size: 15px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}

@@ -1,0 +1,118 @@
+.Main-board-body {
+    width: 800px;
+    height: auto;
+    margin: 13px 0 0 0 ;
+    padding: 0 0 20px 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 0 rgba(154, 154, 154, 0.15);
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+.Table-bottom {
+    margin: 11.5px 23px 12.6px 33px;
+}
+
+.Paging {
+    display: block;
+}
+
+.Contents-number {
+    font-family: MalgunGothic;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    float: left;
+}
+
+.Present-page {
+
+    font-family: MalgunGothic;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    float: right;
+}
+
+.Paging-navs {
+    height: 11px;
+    margin: 11.6px auto 0 auto;
+    display: block;
+}
+
+.Paging-first {
+    width: 10px;
+    height: 14px;
+    margin: 0.6px 4.7px 2.4px 4.7px;
+    float: left;
+}
+
+.Paging-previous {
+    width: 8px;
+    height: 14px;
+    margin: 0.6px 4.7px 2.4px 4.7px;
+    float: left;
+}
+
+.Paging-number {
+    width: 8px;
+    height: 14px;
+    margin: 0 4.7px 0 4.7px;
+    font-family: MalgunGothic;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    float: left;
+}
+
+.Paging-next {
+    width: 8px;
+    height: 14px;
+    margin: 0.6px 4.7px 2.4px 4.7px;
+    float: left;
+}
+
+.Paging-last {
+    width: 10px;
+    height: 14px;
+    margin: 0.6px 4.7px 2.4px 4.7px;
+    float: left;
+}
+
+.New-content-button {
+    width: 100px;
+    height: 31px;
+    margin: 20px 350px 0 350px;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #3b4979;
+}
+
+.New-content-button-text {
+    height: 19px;
+    padding-top: 6px;
+    font-family: MalgunGothic;
+    font-size: 15px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}

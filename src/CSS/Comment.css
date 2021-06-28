@@ -1,0 +1,38 @@
+.Comment {
+    height: 51px;
+    padding: 19.5px 15.5px 9.5px 5.5px;
+    border-bottom-style: solid;
+    border-bottom-color: #707070;
+    border-bottom-width: 1px;
+}
+
+.Comment-content {
+    width: 660px;
+    float: left;
+}
+
+
+.Comment-content-info {
+    font-family: NotoSansCJKKR;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+.Comment-content-text {
+    margin-top: 8px;
+    font-family: NotoSansCJKKR;
+    font-size: 12px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}

@@ -1,0 +1,38 @@
+.Nav-button {
+    height: 60px;
+    float: left;
+    display: block;
+    background-color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.Nav-text {
+    height: 24px;
+    margin: 19px 31px;
+    font-family: NotoSansCJKKR;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    justify-content: center;
+    color: #000000;
+}
+
+.Sub-nav-text{
+    height: 20px;
+    margin: 20px 19px;
+    font-family: NotoSansCJKKR;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    justify-content: center;
+    color: #000000;
+}

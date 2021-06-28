@@ -1,0 +1,16 @@
+.Table-content {
+    height: 28px;
+    padding-top: 14px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #e6e6e6;
+}
+
+.Table-notice {
+    height: 28px;
+    padding-top: 14px;
+    background-color: #f6f9ff;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #e6e6e6;
+}
