@@ -22,7 +22,7 @@ function Board( { location } ) {
     useEffect(() => {
         let allData = [];
         if(localStorage.datas !== undefined){
-            allData = JSON.parse( localStorage.datas );
+            allData = JSON.parse( localStorage.datas ).reverse();
         }
         const query = queryString.parse( location.search );
         setPage( ( parseInt( query.page ) > 0 ? parseInt( query.page ) : 1 ) );

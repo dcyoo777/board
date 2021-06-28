@@ -38,6 +38,7 @@ function WriteNewContent() {
                     now.getDate().toString(),
                 time: now.getHours().toString() + ":" + now.getMinutes().toString(),
                 likes: 0,
+                comments: [],
             }
         )
 
